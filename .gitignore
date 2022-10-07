@@ -1,5 +1,6 @@
 .vscode/
 *~
+/.trash/
 /data/
 /runs/
 /weights/
